@@ -1,5 +1,5 @@
 # Deep-Q-Learning-Video-Game-
-***Overview***
+# Overview 
 This is the code for this video on Youtube by Siraj Raval as part of the Math of Intelligence series. We're going to rerecreate DeepMind's Deep Q Learner for a variety of games.
 
 Dependencies
