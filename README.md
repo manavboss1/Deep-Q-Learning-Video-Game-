@@ -1,6 +1,6 @@
 # Deep-Q-Learning-Video-Game-
 # Overview 
-This is the code for this video on Youtube by Siraj Raval as part of the Math of Intelligence series. We're going to rerecreate DeepMind's Deep Q Learner for a variety of games.
+This is the code for this as part of the Math of Intelligence. Recreating DeepMind's Deep Q Learner for a variety of games.
 
 # Dependencies
 keras (http://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/)
